@@ -12,4 +12,11 @@ You must have the following packages installed to run the R script:
 8. vader
 
 You must have the following libraries imported to run the Python script: 
-1. 
+1. tyeepy
+2. json
+3. chart_studio
+4. datetime
+4. dateutil
+5. vaderSentiment
+6. numpy
+7. Collections
