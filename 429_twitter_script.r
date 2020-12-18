@@ -12,9 +12,9 @@ library(SentimentAnalysis)
 
 # Twitter Auth
 setup_twitter_oauth(consumer_key    = "vDhzMo5yo1lIdRsSMFQkCWKmb", 
-                    consumer_secret  = "RDYay8RDmuomiPdUqiX2NA8G8RtI7lot4i9lzECaqVI4dtZWRz", 
+                    consumer_secret  = "<INSERT SECRET KEY>",
                     access_token     = "90768200-Qsi1DK0lOceLq3wkqoh6v7Nxdmu9DJIVDh3z4bPZz",
-                    access_secret    = "D0jC5rDjTNyEGyYmSVa1W5Doq3KxpOqatgzqmqwAKvsdA")
+                    access_secret    = "<INSERT SECRET KEY>")
 
 ## CHANGE THIS
 # List of users to track
